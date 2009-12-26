@@ -1,0 +1,11 @@
+; $Id
+name = walkah.net
+description = my theme
+core = 6.x
+engine = phptemplate
+regions[sidebar] = Sidebar
+regions[header] = Header
+regions[footer] = Footer
+stylesheets[all][] = grids.css
+stylesheets[all][] = style.css
+scripts[] = walkah.js
